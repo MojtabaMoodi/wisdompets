@@ -1,4 +1,4 @@
 __pycache__/
 *py[cod]
-wisdompets/db.sqlite3
+db.sqlite3
 .vscode
